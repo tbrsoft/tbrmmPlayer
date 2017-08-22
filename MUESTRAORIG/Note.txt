@@ -1,0 +1,5 @@
+You must have control comctl32.ocx because this code use controls (progress and slider) from it
+if you not have this ocx please e-mail me at : a_ahdal@yahoo.com
+and I'll send it to you. Enjoy
+
+thanks.

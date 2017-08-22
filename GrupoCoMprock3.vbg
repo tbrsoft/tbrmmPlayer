@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=..\..\mprock\mprock3\DigMusVidSys.vbp
+Project=tbrPlayer.vbp
